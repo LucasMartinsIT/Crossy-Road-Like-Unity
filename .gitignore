@@ -1,0 +1,9 @@
+# Diretórios do Unity que não devem ser versionados
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+Packages/com.unity.package-manager-do

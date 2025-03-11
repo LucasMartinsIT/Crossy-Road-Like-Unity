@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|c:\\users\\sac10\\downloads\\minhas coisas\\unity\\crossy road mobile\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\assets\\scripts\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\titulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\assets\\scripts\\mapaprocedural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapaprocedural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|c:\\users\\sac10\\downloads\\minhas coisas\\unity\\crossy road mobile\\assets\\scripts\\prejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|c:\\users\\sac10\\downloads\\minhas coisas\\unity\\crossy road mobile\\assets\\scripts\\spawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|c:\\users\\sac10\\downloads\\minhas coisas\\unity\\crossy road mobile\\assets\\scripts\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|c:\\users\\sac10\\downloads\\minhas coisas\\unity\\crossy road mobile\\assets\\scripts\\upgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\upgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\assets\\scripts\\coletaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coletaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\assets\\scripts\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|c:\\users\\sac10\\downloads\\minhas coisas\\unity\\crossy road mobile\\assets\\scripts\\cannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E4DAE-8D44-FD99-B97A-9EBB73A376B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Upgrades.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Upgrades.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Upgrades.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Upgrades.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Upgrades.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:28:23.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Temp.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Temp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Temp.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Temp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Temp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:28:20.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpawnScript.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\SpawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnScript.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\SpawnScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:28:19.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "preJump.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\preJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\preJump.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\preJump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\preJump.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:28:17.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapaProcedural.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\MapaProcedural.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapaProcedural.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\MapaProcedural.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapaProcedural.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:07:34.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:49:04.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Titulo.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Titulo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Titulo.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Titulo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Titulo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:13:07.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Veiculo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Veiculo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwCUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:31:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAswJEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:27:54.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Coletaveis.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Coletaveis.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coletaveis.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Coletaveis.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coletaveis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:07:27.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cannon.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Cannon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cannon.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Cannon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cannon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:27:48.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:33:39.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\sac10\\Downloads\\MINHAS COISAS\\Unity\\Crossy Road Mobile\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAWwDkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:15:29.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
