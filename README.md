@@ -1,6 +1,6 @@
 # Crossy Road Mobile Rogue Like 🐔🔫
 
-![Gameplay Demo]
+![Gameplay Demo](GameplayGif.gif)
 
 
 Um jogo casual desenvolvido na engine Unity que combina a mecânica clássica de movimentação em grid com elementos de progressão *Rogue-like*. Avance pelas fases, colete moedas, desbloqueie novos personagens e melhore seu arsenal para ir cada vez mais longe!
